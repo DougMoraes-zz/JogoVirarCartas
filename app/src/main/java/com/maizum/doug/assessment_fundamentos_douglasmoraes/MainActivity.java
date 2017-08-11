@@ -102,6 +102,7 @@ public class MainActivity extends AppCompatActivity {
                 cartaTres.setClickable(true);
                 cartaAs = random.nextInt(3) + 1;
                 txtMensagem.setText("");
+                btnNovamente.setVisibility(View.INVISIBLE);
             }
         };
 
