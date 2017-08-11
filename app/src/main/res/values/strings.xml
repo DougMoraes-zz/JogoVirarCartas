@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assessment_Fundamentos_DouglasMoraes</string>
+    <string name="descricao_carta_ver">Verso de uma carta. Clique para virar.</string>
+    <string name="txt_btnConfirmar">Confirmar</string>
+    <string name="txt_vitoria">Você venceu!</string>
+    <string name="txt_derrota">Você perdeu! Tente novamente!</string>
+    <string name="tentar_novamente">Tentar Novamente</string>
+</resources>
